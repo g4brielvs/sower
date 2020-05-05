@@ -1,0 +1,12 @@
+name: sower
+channels:
+  - conda-forge 
+dependencies:
+  - python=3.7
+  - bokeh
+  - fbprophet
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - requests
+  - seaborn
